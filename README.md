@@ -6,7 +6,7 @@
 <!-- Animated Typing Subtitle -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Welcome+to+the+DIP+Laboratory+Repository;Python+%E2%80%A2+NumPy+%E2%80%A2+Pillow+%E2%80%A2+Matplotlib+%E2%80%A2+OpenCV;University+of+Azad+Jammu+and+Kashmir;Department+of+Software+Engineering+(Session+2024-28);Zulqarnain+MohiUdDin" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&width=650&height=45&lines=Welcome+to+the+DIP+Laboratory+Repository;Python+%E2%80%A2+NumPy+%E2%80%A2+Pillow+%E2%80%A2+Matplotlib+%E2%80%A2+OpenCV;University+of+Azad+Jammu+and+Kashmir;Department+of+Software+Engineering+(Session+2024-28);Zulqarnain+Mohi+Ud+Din" alt="Typing SVG" />
   </a>
 </p>
 
