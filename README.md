@@ -30,6 +30,7 @@
 | 🏢 **Department** | Department of Software Engineering |
 | 🔬 **Course** | Digital Image Processing (DIP) Lab |
 | 👨‍🏫 **Lab Instructor** | Engr. Fahad Nisar |
+| 👨‍🏫 **Author** | Zulqarnain Mohi Ud Din |
 | 🎓 **Session / Term** | 2024–2028 \| 5th Semester |
 
 ---
@@ -41,15 +42,11 @@ This repository contains all laboratory source code, practical implementations, 
 ```
 📁 DIP
 ├── 📄 README.md                 # Animated Repository Documentation
-├── 📄 Lab Task 01.pdf           # Instructor Lab Manual & Rubric
-├── 📄 LAB_REPORT_01.md          # Formatted Lab 1 Submission Report
+├── 📄 LAB_REPORT_01.pdf          # Formatted Lab 1 Submission Report
 ├── 🐍 hello.py                  # Lab 01 - Verification Script
 ├── 🐍 basics.py                 # Lab 01 - Fundamental Exercises (1 - 6)
 ├── 🐍 lab01_imports.py          # Lab 01 - Essential DIP Library Imports
-└── 📁 dip-lab-01/               # Lab 01 Workspace Folder
-    ├── 🐍 hello.py
-    ├── 🐍 basics.py
-    └── 🐍 lab01_imports.py
+
 ```
 
 ---
@@ -134,4 +131,5 @@ python lab01_imports.py
 
 <p align="center">
   <sub>Digital Image Processing Lab • Department of Software Engineering • UAJK</sub>
+    <sub> @Zulqarnain Mohi Ud Din </sub>
 </p>
